@@ -10,8 +10,8 @@ Running the daemon is only possible with root user!
 After restarting MAD it will take about 5 minutes before data is usable. 
 
 ### RPI Prep:
-apt install python3-pip
-copy the files to your PI. 
+apt install python3-pip  
+copy the files to your PI.   
 
 #### Install:
 ```
